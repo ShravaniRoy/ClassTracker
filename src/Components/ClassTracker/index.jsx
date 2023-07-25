@@ -41,7 +41,7 @@ const ClassTracker = () => {
 
   
   return (
-    <div>
+    <div className='wrapper'>
       <h1>Class Tracker</h1>
       <Calendar
         onClickDay={handleDateChange}
@@ -55,3 +55,6 @@ const ClassTracker = () => {
 };
 
 export default ClassTracker;
+
+// https://elyr1o4zn4.execute-api.us-east-1.amazonaws.com/dev/get-user/{ID}
+// example - https://elyr1o4zn4.execute-api.us-east-1.amazonaws.com/dev/get-user/RamS

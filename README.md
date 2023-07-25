@@ -6,10 +6,17 @@ This application lets us both track our classes.
 As of now the project lets us mark the dates done by cliking on them.
 I'm yet to add backend to the application.
 
+For the complete story behind building this simple application and to know how I developed it, read my blog at blog.shravaniroy.com
+
 # Enhancement
 
-I am planning to add students module, which lets my teacher use this application to track classes
-for all her students.
+- [x] Calendar
+- [ ] Add Students
+- [ ] Delete Students
+- [ ] Month stats
+- [ ] Notifications
+
+
 
 ## Installation
 
